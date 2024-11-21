@@ -15,7 +15,6 @@ Java library for interacting with the Linux /proc file system
 import org.voidzero.linux.proc.CpuInfo;
 import org.voidzero.linux.proc.Pressure;
 import org.voidzero.linux.proc.Psi;
-
 import java.io.IOException;
 
 public class Main {
